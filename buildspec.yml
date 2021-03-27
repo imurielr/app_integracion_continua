@@ -54,6 +54,7 @@ phases:
 artifacts:
   files:
     - dist/**/*
+    - package.json
     # - location
   #name: $(date +%Y-%m-%d)
   #discard-paths: yes
