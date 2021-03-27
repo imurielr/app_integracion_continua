@@ -53,7 +53,7 @@ phases:
     #file-format: JunitXml | CucumberJson
 artifacts:
   files:
-    - dist/
+    - dist/**/*
     # - location
   #name: $(date +%Y-%m-%d)
   #discard-paths: yes
