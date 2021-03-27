@@ -20,8 +20,8 @@
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "pino": "^6.10.0",
-    "express-openapi-validator": "^4.10.6"
+    "express-openapi-validator": "^4.10.6",
+    "pino": "^6.10.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
@@ -33,6 +33,7 @@
     "@babel/register": "^7.12.10",
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
+    "cypress": "^6.8.0",
     "eslint": "^7.17.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-plugin-import": "^2.22.1",
