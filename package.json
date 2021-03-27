@@ -1,5 +1,5 @@
 {
-  "name": "app-integracion-continua",
+  "name": "app-integracion-continua", 
   "version": "1.0.0",
   "description": "My cool app",
   "main": "index.js",
